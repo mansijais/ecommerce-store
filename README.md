@@ -1,10 +1,19 @@
 # E-Commerce App
+A responsive e-commerce application built with React and Vite that allows users to browse products, search, filter, and navigate through paginated results.
+
+## Live Demo
+
+https://ecommerce-store-five-indol.vercel.app/
+
+## GitHub Repository
+
+https://github.com/mansijais/ecommerce-store
 
 ##  Setup Instructions
 
 1. Clone the repository:
    git clone https://github.com/mansijais/ecommerce-store.git
-   cd E-Cart
+   cd ecommerce-store
 
 
 ##
@@ -52,6 +61,8 @@ http://localhost:5173
 1. Add loading skeletons for better UX
 2. Add URL query params for shareable filter state
 3. Improve mobile responsiveness (drawer-style sidebar)
+4. Add error boundaries and improved error handling.
+
 
 ## Tech Stack
 1. React (Vite)
